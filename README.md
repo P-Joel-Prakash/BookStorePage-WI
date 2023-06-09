@@ -1,4 +1,4 @@
-# BookStore
+# BookStore Page
 
 Book Store Page
 In this assignment, let's build a Book Store Page by applying the concepts we learned till now. You can use the Bootstrap concepts and CCBP UI Kit as well.
